@@ -7,19 +7,23 @@ On the other hand, it is a place where I can show off with the work I've done ;)
 Drop me a line if you want to know more about any of these projects.
 
 
-##ETH4000 Serial Server
-[User Manual](../blob/master/docs/131-420.pdf) (spanish)
+## ETH4000 Serial Server
 
-##JACO485L RS232/RS485/RS422 Converter
-[User Manual](../blob/master/docs/131-420.pdf) (spanish)
+[User Manual](../master/docs/131-420.pdf) (spanish)
 
-##JAKO LX8 Light control
-[User Manual](../blob/master/docs/131-580-LX8.pdf) (spanish)
+## JACO485L RS232/RS485/RS422 Converter
 
-[Protocol](../blob/master/docs/131-580-01.pdf) (spanish)
+[User Manual](../master/docs/131-420.pdf) (spanish)
 
-##JAKO PV8 Digital Pressure Switch HVAC 
-[User Manual](../blob/master/docs/131-580-PV8.pdf) (spanish)
+## JAKO LX8 Light control
+
+[User Manual](../master/docs/131-580-LX8.pdf) (spanish)
+
+[Protocol](../master/docs/131-580-01.pdf) (spanish)
+
+## JAKO PV8 Digital Pressure Switch HVAC 
+
+[User Manual](../master/docs/131-580-PV8.pdf) (spanish)
 
 
 [EOF] Thanks.
