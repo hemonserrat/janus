@@ -46,8 +46,11 @@ Drop me a line if you want to know more about any of these projects.
 ## JAKO SCADA - Software Client/Server distributed system for internet based remote monitoring
 
 [Installation Guide](../master/docs/150-0640.pdf) (spanish)
+
 [Admin Guide](../master/docs/150-0641.pdf) (spanish)
+
 [Monitor/DashBoards Guide](../master/docs/150-0642.pdf) (spanish)
+
 [Server Guide](../master/docs/150-0643.pdf) (spanish)
 
 
