@@ -31,6 +31,24 @@ Drop me a line if you want to know more about any of these projects.
 
 [Protocol](../master/docs/131-0580-TN0-01.pdf) (spanish)
 
+## JAKO UX0 4-20mA/0-10V 4 inputs Data adquisition module + Modbus RTU protocol
+
+[User Manual](../master/docs/131-0580-UX0.pdf) (spanish)
+
+[Protocol](../master/docs/131-0580-UX0-01v2.pdf) (spanish)
+
+## JAKO UX8 4-20mA/0-10V 4 inputs Data adquisition module + 8 dry contacts outputs + Modbus RTU protocol
+
+[User Manual](../master/docs/131-0580-UX8.pdf) (spanish)
+
+[Protocol](../master/docs/131-0580-UX8-01.pdf) (spanish)
+
+## JAKO SCADA - Software Client/Server distributed system for internet based remote monitoring
+
+[Installation Guide](../master/docs/150-0640.pdf) (spanish)
+[Admin Guide](../master/docs/150-0641.pdf) (spanish)
+[Monitor/DashBoards Guide](../master/docs/150-0642.pdf) (spanish)
+[Server Guide](../master/docs/150-0643.pdf) (spanish)
 
 
 
